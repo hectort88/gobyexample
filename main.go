@@ -16,4 +16,6 @@ func main() {
 	forloops()
 	ifelse()
 	myswitch()
+	arrays()
+	myslices()
 }
