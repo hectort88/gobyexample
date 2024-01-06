@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func variables() {
-	fmt.Println("Variables--------------------")
+	separator("Variables")
 	// declaring with var
 	var a = "Initial"
 	fmt.Println(a)

@@ -4,7 +4,7 @@ import "fmt"
 
 func forloops() {
 	// for like while
-	fmt.Println("For Loops--------------------")
+	separator("For Loops")
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)

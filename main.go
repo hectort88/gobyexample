@@ -19,4 +19,9 @@ func main() {
 	arrays()
 	myslices()
 	mymaps()
+	ranges()
+	functions()
+	multireturns()
+	variadic()
+	closures()
 }

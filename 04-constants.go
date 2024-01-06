@@ -8,7 +8,7 @@ import (
 const s string = "Constant"
 
 func constants() {
-	fmt.Println("Constants--------------------")
+	separator("Constants")
 	fmt.Println(s)
 
 	const n = 500000000
