@@ -18,4 +18,5 @@ func main() {
 	myswitch()
 	arrays()
 	myslices()
+	mymaps()
 }
