@@ -24,4 +24,7 @@ func main() {
 	multireturns()
 	variadic()
 	closures()
+	recursion()
+	pointers()
+	stringrunes()
 }
