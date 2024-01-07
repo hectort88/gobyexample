@@ -27,4 +27,7 @@ func main() {
 	recursion()
 	pointers()
 	stringrunes()
+	mystructs()
+	methods()
+	interfaces()
 }
