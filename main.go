@@ -30,4 +30,8 @@ func main() {
 	mystructs()
 	methods()
 	interfaces()
+	structembed()
+	myGenerics()
+	errorExample()
+	goroutines()
 }
