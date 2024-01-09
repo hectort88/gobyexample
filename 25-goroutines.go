@@ -19,7 +19,9 @@ func goroutines() {
 	f("direct")
 
 	// This will execute concurrently with the calling one.
-	go f("goroutine")
+	go f("goroutine1")
+	go f("goroutine2")
+	go f("goroutine3")
 
 	// start a goroutine for an anonymous function
 	go func(msg string) {
