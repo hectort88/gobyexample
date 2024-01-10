@@ -34,4 +34,8 @@ func main() {
 	myGenerics()
 	errorExample()
 	goroutines()
+	channels()
+	buffchannel()
+	channelsync()
+	channeldir()
 }
