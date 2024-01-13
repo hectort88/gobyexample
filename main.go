@@ -43,6 +43,10 @@ func main() {
 	// nonblockingchannel()
 	// closingchannels()
 	// rangechannel()
-	timers()
-	tickers()
+	// timers()
+	// tickers()
+	// workerpools()
+	// waitgroup()
+	ratelimits()
+	autocount()
 }
