@@ -48,5 +48,6 @@ func main() {
 	// workerpools()
 	// waitgroup()
 	ratelimits()
-	autocount()
+	atomiccounter()
+	mutexes()
 }
